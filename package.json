@@ -1,6 +1,6 @@
 {
   "name": "couch64",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Decode and encode Base64",
   "main": "couch64.js",
   "scripts": {
@@ -10,5 +10,6 @@
   "devDependencies": {
     "nano": "^5.10.0",
     "tap": "^0.4.12"
-  }
+  },
+  "license": "CC-BY-SA"
 }
