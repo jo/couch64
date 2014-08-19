@@ -4,7 +4,7 @@ Handle base64 encoding and decoding inside CouchDB (and node) using typed arrays
 [![Build Status](https://travis-ci.org/jo/couch64.svg?branch=master)](https://travis-ci.org/jo/couch64)
 
 The code comes from Mozilla:
-```
+```js
 /*\
 |*|
 |*|  Base64 / binary data / UTF-8 strings utilities
@@ -15,7 +15,7 @@ The code comes from Mozilla:
 ```
 
 ## Usage:
-```
+```js
 var couch64 = require('couch64')
 
 var sMyInput = "Base 64 \u2014 Mozilla Developer Network"
