@@ -1,6 +1,8 @@
 # couch64
 Handle base64 encoding and decoding inside CouchDB (and node) using typed arrays.
 
+[![Build Status](https://travis-ci.org/jo/couch64.svg?branch=master)](https://travis-ci.org/jo/couch64)
+
 The code comes from Mozilla:
 ```
 /*\
