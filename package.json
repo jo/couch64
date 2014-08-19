@@ -1,0 +1,14 @@
+{
+  "name": "couch64",
+  "version": "1.0.0",
+  "description": "Decode and encode Base64",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test/*-test.js"
+  },
+  "author": "Johannes J. Schmidt",
+  "devDependencies": {
+    "nano": "^5.10.0",
+    "tap": "^0.4.12"
+  }
+}
