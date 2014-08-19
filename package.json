@@ -1,8 +1,8 @@
 {
   "name": "couch64",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Decode and encode Base64",
-  "main": "index.js",
+  "main": "couch64.js",
   "scripts": {
     "test": "tap test/*-test.js"
   },
