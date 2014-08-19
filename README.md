@@ -44,6 +44,9 @@ DOMString to UTF-8 array
 
 
 ## License
-All the code coming from [Base64 encoding and decoding](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Base64_encoding_and_decoding) By [Mozilla Contributors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Base64_encoding_and_decoding$history) is licensed under [CC-BY-SA 2.5](http://creativecommons.org/licenses/by-sa/2.5/)
+All the code coming from
+[Base64 encoding and decoding](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Base64_encoding_and_decoding)
+by [Mozilla Contributors](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Base64_encoding_and_decoding$history)
+is licensed under [CC-BY-SA 2.5](http://creativecommons.org/licenses/by-sa/2.5/) (as well as the little rest)
 
 (c) 2014 Johannes J. Schmidt
